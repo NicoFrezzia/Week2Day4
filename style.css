@@ -1,0 +1,28 @@
+.content {
+    float: center;
+    margin-top: 90px;
+    margin-left: 40%;
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 300px;
+}
+.contact {
+    text-align: center;
+    margin: 10px;
+}
+.firstName {
+    text-align: center;
+    margin: 10px;
+}
+.lastName { 
+    text-align: center;
+    margin: 10px;
+}
+.email {
+    text-align: center;
+    margin: 10px;
+}
+.submit {
+    text-align: center;
+    margin: 10px;
+}
